@@ -1,0 +1,23 @@
+{
+  "name": "dentist-website-sufyaan",
+  "version": "1.0.0",
+  "description": "website updated",
+  "main": "appointments.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CDorning/dentist-website-sufyaan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CDorning/dentist-website-sufyaan/issues"
+  },
+  "homepage": "https://github.com/CDorning/dentist-website-sufyaan#readme",
+  "dependencies": {
+    "mongoose": "^8.7.0"
+  }
+}
